@@ -12,7 +12,7 @@
 ## 🎯 Objetivo del Trabajo
 [Describan qué buscan lograr con esta actividad de evaluación].
 
-## 📁 Estructura del Repositorio
+ Estructura del Repositorio
 * `/01_descripcion`: Documentación del escenario seleccionado.
 * `/02_modelos`: Diagramas y modelos de procesos.
 * `/03_patrones`: Patrones de proceso aplicados.
@@ -20,7 +20,4 @@
 * `/05_evidencias`: Capturas de pantalla e imágenes de soporte.
 * `/06_reflexion_final`: Conclusiones y aprendizaje del grupo.
 
-## 📝 Registro de Decisiones (ADR)
-| Fecha | Problema / Decisión | Alternativas | Elección | Justificación |
-|---|---|---|---|---|
-| DD/MM | Ejemplo: Selección de herramienta | Visual Paradigm vs. Draw.io | Draw.io | Gratuita y colaborativa |
+
